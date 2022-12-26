@@ -21,12 +21,12 @@ function Header() {
                 </li>
               </ul>
               <div className="">
-                <ul className="navbar-nav">
+                <ul className="navbar-nav align-items-center">
                   <li className="nav-item">
-                  <Link to="/" className="nav-link"><img src="assets/images/twitter.svg" alt="Twitter" width={48} height={39.9}/></Link>
+                  <Link to="/" className="nav-link"><img src="assets/images/twitter.svg" alt="Twitter" width={40} height={33}/></Link>
                   </li>
                   <li className="nav-item">
-                  <Link to="/" className="nav-link"><img src="assets/images/discord.svg" alt="Discord" width={48} height={39.9}/></Link>
+                  <Link to="/" className="nav-link"><img src="assets/images/discord.svg" alt="Discord" width={40} height={33}/></Link>
                   </li>
                 </ul>
               </div>
