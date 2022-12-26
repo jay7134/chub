@@ -14,7 +14,7 @@ function Code() {
     <div className="chubs-list container-fluid">
       <div className="row">    
         <div className='col-sm-8 offset-sm-2' data-aos="fade-up" data-aos-duration="1000">
-            <img src='assets/images/Chub-code.png' className="img-fluid mx-auto d-block" alt="Chub Code" width={559} height={419}/>
+            <img src='assets/images/chub-code.png' className="img-fluid mx-auto d-block" alt="Chub Code" width={559} height={419}/>
             <div className='mz-spacing'></div>
         </div>
       </div>
